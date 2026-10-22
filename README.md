@@ -14,3 +14,7 @@ The comparison control remains disabled where an authentic, alignable historic i
 
 ## Editorial next steps
 Confirm each museum object, dates, interpretations, image licenses, and community-specific attributions. Improve Indian, Chinese, Japanese, Indigenous Australian, and Indigenous North American coverage. Cite the exact archival object alongside interpretation.
+
+
+## Version 0.3
+Removed hero and extra headings; moved story and artifact into one right-hand column; enlarged photographic Moon with a CSS crop; kept orbit and timeline together. The photographic crop should be checked on your deployed site. No historical image is presented as surface-aligned without verification.
